@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.section_1{
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+
+    
+}
+input{
+    height: 50px;
+}
+.divider{
+    height: 10px;
+    width: 100%;
+    background-color: gray;
+}
+.section1{
+    color: black;
+}
+.accordion-item{
+    background-color: grey;
+}
+.accordion-button{
+    background-color:grey;
+}
+.accordion-header{
+    background-color: gray;
+}
+input{
+    height:50px;
+}
+.b{
+    font-size: 50px;
+}
+.blur{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgb(0, 0, 0),rgba(26, 26, 26, 0.626),rgba(0, 0, 0, 0.776));
+    z-index: -2;
+}
+#xyz{
+    font-size:70px;
+}
+
